@@ -48,6 +48,7 @@ h2,h5,p{ margin: 0px;}
    }
 
    @media (max-width: 578px) {
+    .creativeSection { padding-top: 40px; }
     p{ font-size: 14px; line-height: 22px;}
     .creativeSection ul{ flex-direction: column;}
     h2{ font-size: 36px; padding-bottom: 32px;}
@@ -59,4 +60,10 @@ h2,h5,p{ margin: 0px;}
     .footer{ margin-top: 60px;}
     .small , .small span, .small a{ font-size: 14px; line-height: 20px;}
    } 
+
+   @media (max-width: 360px) {
+    .memberbox { max-width: 120px; padding-bottom: 10px; }
+    h2 { font-size: 32px; line-height: 36px; padding-bottom: 26px; }
+    .footer { margin-top: 45px; }
+   }
  

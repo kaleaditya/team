@@ -8,7 +8,7 @@ h2,h5,p{ margin: 0px;}
 .creativeSection ul{ color: #000; display: flex; }
 .creativeSection ul li{ flex: 0 0 50%;}
 .creativeSection p{max-width: 440px;}
- h2{font-family: 'PT Serif', serif;font-size: 36px; font-weight: 700; line-height: 48px; text-align: left;}
+ h2{font-family: 'PT Serif', serif;font-size: 36px; font-weight: 700; line-height: 48px; text-align: left; max-width: 300px;}
  p{font-size: 18px; font-weight: 400; line-height: 27px; margin-bottom: 10px; text-align: left;  }
 .bold{font-weight: 600 !important;}
 .memberbox{ max-width: 270px; width: 100%;padding-bottom: 37px; }
@@ -52,7 +52,7 @@ h2,h5,p{ margin: 0px;}
     .creativeSection ul{ padding-left: 15px;}
     p{ font-size: 14px; line-height: 22px;}
     .creativeSection ul{ flex-direction: column;}
-    h2{ font-size: 36px; padding-bottom: 32px;}
+    h2{ font-size: 36px; padding-bottom: 32px; max-width: 100%;}
     .memberbox { max-width: 140px; padding-bottom: 15px;}
     .imgbox p{ font-size: 12px; line-height: 18px; top: 45px; right: -60px; width: 102px;}
     .memberbox p{ font-size: 14px; line-height: 20px;}

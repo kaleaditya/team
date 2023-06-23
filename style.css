@@ -49,6 +49,7 @@ h2,h5,p{ margin: 0px;}
 
    @media (max-width: 578px) {
     .creativeSection { padding-top: 40px; }
+    .creativeSection ul{ padding-left: 15px;}
     p{ font-size: 14px; line-height: 22px;}
     .creativeSection ul{ flex-direction: column;}
     h2{ font-size: 36px; padding-bottom: 32px;}
